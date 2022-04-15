@@ -1,0 +1,12 @@
+{
+    "datadiri1" : [
+        {"nama" : "eko"},
+        {"usia" : 23},
+        {"alamat" : "bali"}
+    ],
+    "datadiri2" : [
+        {"nama" : "putri"},
+        {"usia" : 20},
+        {"alamat" : "sumatra"}
+    ]
+}
